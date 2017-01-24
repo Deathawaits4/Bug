@@ -23,7 +23,7 @@ Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWor
 Loading D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NAudio.dll into Unity Child Domain
 Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NVorbis.dll (this message is harmless)
 Loading D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NVorbis.dll into Unity Child Domain
-- Completed reload, in  0.061 seconds
+- Completed reload, in  0.060 seconds
 Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.dll (this message is harmless)
 Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Xml.dll (this message is harmless)
@@ -34,106 +34,306 @@ Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWor
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initialized touch support.
 
-UnloadTime: 0.845355 ms
+UnloadTime: 1.508668 ms
 RimWorld 0.16.1393 rev536
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Non platform assembly: data-18F39028 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18F39028.dll
-Non platform assembly: data-18F55A38 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18F55A38.dll
-Non platform assembly: data-18F8F110 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18F8F110.dll
-Non platform assembly: data-18FD0070 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18FD0070.dll
-Non platform assembly: data-18FF3008 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18FF3008.dll
-Non platform assembly: data-18EC7D28 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18EC7D28.dll
-Non platform assembly: data-190036C0 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-190036C0.dll
-Non platform assembly: data-18ED3D58 (this message is harmless)
-Non platform assembly: data-19049270 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-19049270.dll
-Non platform assembly: data-1C290050 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C290050.dll
-Non platform assembly: data-1C2D5008 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C2D5008.dll
+Rebuilding mods list
+Adding mods from mods folder:
+  Adding Core(D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Core)
+  Adding CPBeasties ADS Patch(D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CPBeasties ADS Patch)
+  Adding Orassan (EPOE Patch)(D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Orassan (EPOE Patch))
+  Adding Right Tool Rebalanced(D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Right Tool Rebalanced)
+  Adding Taiga_Creatures(D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Taiga_Creatures)
+  Adding TC⁄ADS compatch(D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TC⁄ADS compatch)
+Adding mods from Steam:
+  Adding 725956940(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\725956940)
+  Adding 732569232(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\732569232)
+  Adding 715565262(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\715565262)
+  Adding 765890823(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\765890823)
+  Adding 763418547(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\763418547)
+  Adding 777197241(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\777197241)
+  Adding 815039373(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\815039373)
+  Adding 764375772(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\764375772)
+  Adding 839005762(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\839005762)
+  Adding 730899625(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\730899625)
+  Adding 753498552(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\753498552)
+  Adding 761219125(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\761219125)
+  Adding 780996548(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\780996548)
+  Adding 730528968(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\730528968)
+  Adding 750111404(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\750111404)
+  Adding 776679895(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\776679895)
+  Adding 725623521(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\725623521)
+  Adding 785754949(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\785754949)
+  Adding 817231829(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\817231829)
+  Adding 754637870(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\754637870)
+  Adding 822470192(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\822470192)
+  Adding 739089840(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\739089840)
+  Adding 724602224(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\724602224)
+  Adding 727309536(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\727309536)
+  Adding 761421485(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\761421485)
+  Adding 832990295(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\832990295)
+  Adding 704181221(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\704181221)
+  Adding 717575199(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\717575199)
+  Adding 818773962(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\818773962)
+  Adding 725949967(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\725949967)
+  Adding 725947920(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\725947920)
+  Adding 736139206(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\736139206)
+  Adding 736172213(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\736172213)
+  Adding 736207111(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\736207111)
+  Adding 822180758(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\822180758)
+  Adding 725576127(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\725576127)
+  Adding 731111514(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\731111514)
+  Adding 810339752(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\810339752)
+  Adding 760088748(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\760088748)
+  Adding 779592154(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\779592154)
+  Adding 840043916(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\840043916)
+  Adding 756048464(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\756048464)
+  Adding 747645520(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\747645520)
+  Adding 822107128(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\822107128)
+  Adding 733113011(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\733113011)
+  Adding 830221184(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\830221184)
+  Adding 746425621(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\746425621)
+  Adding 814898788(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\814898788)
+  Adding 818322128(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\818322128)
+  Adding 778877333(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\778877333)
+  Adding 760708576(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\760708576)
+  Adding 766264659(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\766264659)
+  Adding 774577413(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\774577413)
+  Adding 726855894(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\726855894)
+  Adding 726859932(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\726859932)
+  Adding 759866027(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\759866027)
+  Adding 728315620(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\728315620)
+  Adding 775703802(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\775703802)
+  Adding 764301651(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\764301651)
+  Adding 824303869(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\824303869)
+  Adding 834016280(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\834016280)
+  Adding 727626696(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\727626696)
+  Adding 798086114(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\798086114)
+  Adding 797801997(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\797801997)
+  Adding 794038005(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\794038005)
+  Adding 775544207(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\775544207)
+  Adding 734709234(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\734709234)
+  Adding 824865457(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\824865457)
+  Adding 834253740(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\834253740)
+  Adding 836268476(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\836268476)
+  Adding 771534218(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\771534218)
+  Adding 756455824(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\756455824)
+  Adding 822106946(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\822106946)
+  Adding 822106352(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\822106352)
+  Adding 837094164(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\837094164)
+  Adding 727710731(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\727710731)
+  Adding 747647690(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\747647690)
+  Adding 764385851(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\764385851)
+  Adding 825487565(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\825487565)
+  Adding 841878611(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\841878611)
+  Adding 834999520(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\834999520)
+  Adding 836351075(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\836351075)
+  Adding 794133184(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\794133184)
+  Adding 768448143(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\768448143)
+  Adding 735106432(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\735106432)
+  Adding 848250236(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\848250236)
+  Adding 849231601(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\849231601)
+Deactivating not-installed mods:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Rebuilding mods list
+Adding mods from mods folder:
+  Adding Core(D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Core)
+  Adding CPBeasties ADS Patch(D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CPBeasties ADS Patch)
+  Adding Orassan (EPOE Patch)(D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Orassan (EPOE Patch))
+  Adding Right Tool Rebalanced(D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Right Tool Rebalanced)
+  Adding Taiga_Creatures(D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Taiga_Creatures)
+  Adding TC⁄ADS compatch(D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TC⁄ADS compatch)
+Adding mods from Steam:
+  Adding 725956940(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\725956940)
+  Adding 732569232(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\732569232)
+  Adding 715565262(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\715565262)
+  Adding 765890823(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\765890823)
+  Adding 763418547(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\763418547)
+  Adding 777197241(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\777197241)
+  Adding 815039373(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\815039373)
+  Adding 764375772(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\764375772)
+  Adding 839005762(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\839005762)
+  Adding 730899625(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\730899625)
+  Adding 753498552(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\753498552)
+  Adding 761219125(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\761219125)
+  Adding 780996548(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\780996548)
+  Adding 730528968(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\730528968)
+  Adding 750111404(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\750111404)
+  Adding 776679895(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\776679895)
+  Adding 725623521(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\725623521)
+  Adding 785754949(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\785754949)
+  Adding 817231829(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\817231829)
+  Adding 754637870(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\754637870)
+  Adding 822470192(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\822470192)
+  Adding 739089840(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\739089840)
+  Adding 724602224(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\724602224)
+  Adding 727309536(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\727309536)
+  Adding 761421485(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\761421485)
+  Adding 832990295(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\832990295)
+  Adding 704181221(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\704181221)
+  Adding 717575199(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\717575199)
+  Adding 818773962(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\818773962)
+  Adding 725949967(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\725949967)
+  Adding 725947920(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\725947920)
+  Adding 736139206(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\736139206)
+  Adding 736172213(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\736172213)
+  Adding 736207111(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\736207111)
+  Adding 822180758(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\822180758)
+  Adding 725576127(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\725576127)
+  Adding 731111514(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\731111514)
+  Adding 810339752(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\810339752)
+  Adding 760088748(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\760088748)
+  Adding 779592154(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\779592154)
+  Adding 840043916(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\840043916)
+  Adding 756048464(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\756048464)
+  Adding 747645520(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\747645520)
+  Adding 822107128(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\822107128)
+  Adding 733113011(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\733113011)
+  Adding 830221184(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\830221184)
+  Adding 746425621(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\746425621)
+  Adding 814898788(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\814898788)
+  Adding 818322128(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\818322128)
+  Adding 778877333(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\778877333)
+  Adding 760708576(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\760708576)
+  Adding 766264659(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\766264659)
+  Adding 774577413(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\774577413)
+  Adding 726855894(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\726855894)
+  Adding 726859932(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\726859932)
+  Adding 759866027(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\759866027)
+  Adding 728315620(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\728315620)
+  Adding 775703802(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\775703802)
+  Adding 764301651(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\764301651)
+  Adding 824303869(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\824303869)
+  Adding 834016280(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\834016280)
+  Adding 727626696(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\727626696)
+  Adding 798086114(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\798086114)
+  Adding 797801997(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\797801997)
+  Adding 794038005(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\794038005)
+  Adding 775544207(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\775544207)
+  Adding 734709234(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\734709234)
+  Adding 824865457(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\824865457)
+  Adding 834253740(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\834253740)
+  Adding 836268476(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\836268476)
+  Adding 771534218(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\771534218)
+  Adding 756455824(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\756455824)
+  Adding 822106946(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\822106946)
+  Adding 822106352(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\822106352)
+  Adding 837094164(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\837094164)
+  Adding 727710731(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\727710731)
+  Adding 747647690(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\747647690)
+  Adding 764385851(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\764385851)
+  Adding 825487565(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\825487565)
+  Adding 841878611(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\841878611)
+  Adding 834999520(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\834999520)
+  Adding 836351075(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\836351075)
+  Adding 794133184(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\794133184)
+  Adding 768448143(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\768448143)
+  Adding 735106432(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\735106432)
+  Adding 848250236(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\848250236)
+  Adding 849231601(D:\Program Files (x86)\Steam\steamapps\workshop\content\294100\849231601)
+Deactivating not-installed mods:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non platform assembly: data-1805FE48 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1805FE48.dll
+Non platform assembly: data-1807B850 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1807B850.dll
+Non platform assembly: data-1AE2A010 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1AE2A010.dll
+Non platform assembly: data-1AE3D618 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1AE3D618.dll
+Non platform assembly: data-1AE76CF0 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1AE76CF0.dll
+Non platform assembly: data-1AEB1118 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1AEB1118.dll
+Non platform assembly: data-1AEC3FD0 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1AEC3FD0.dll
+Non platform assembly: data-17F20080 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-17F20080.dll
+Non platform assembly: data-1AEE33E8 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1AEE33E8.dll
+Non platform assembly: data-17F44110 (this message is harmless)
+Non platform assembly: data-1AF34910 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1AF34910.dll
+Non platform assembly: data-1AF37718 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1AF37718.dll
+Non platform assembly: data-1AF85030 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1AF85030.dll
 Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Configuration.dll (this message is harmless)
-Non platform assembly: data-1C2ED050 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C2ED050.dll
-Non platform assembly: data-1C36D020 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C36D020.dll
-Non platform assembly: data-18B29048 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18B29048.dll
-Non platform assembly: data-1C3B52E8 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C3B52E8.dll
-Non platform assembly: data-1C3BC6B8 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C3BC6B8.dll
-Non platform assembly: data-1C3BFEC0 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C3BFEC0.dll
-Non platform assembly: data-1C3E1008 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C3E1008.dll
-Non platform assembly: data-1C3E2610 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C3E2610.dll
+Non platform assembly: data-1AF97068 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1AF97068.dll
+Non platform assembly: data-1B043008 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B043008.dll
+Non platform assembly: data-1B073008 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B073008.dll
+Non platform assembly: data-1B076410 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B076410.dll
+Non platform assembly: data-1B08D628 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B08D628.dll
+Non platform assembly: data-1B090E30 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B090E30.dll
+Non platform assembly: data-1AFC1E98 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1AFC1E98.dll
+Non platform assembly: data-1B096E38 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B096E38.dll
 We're all good!
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Non platform assembly: data-18DABD10 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18DABD10.dll
-Non platform assembly: data-18DB0D18 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18DB0D18.dll
-Non platform assembly: data-1C406E28 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C406E28.dll
-Non platform assembly: data-1C42D008 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C42D008.dll
-Non platform assembly: data-1C42F418 (this message is harmless)
-Non platform assembly: data-1C42F418 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C42F418.dll
-Non platform assembly: data-1C434A20 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C434A20.dll
-Non platform assembly: data-1C440A30 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C440A30.dll
-Non platform assembly: data-1C445E38 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C445E38.dll
-Non platform assembly: data-1C44B248 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C44B248.dll
-Non platform assembly: data-1C466268 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C466268.dll
-Non platform assembly: data-1C47CC78 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C47CC78.dll
-Non platform assembly: data-1C4A60E8 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C4A60E8.dll
-Non platform assembly: data-1C3E6E20 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C3E6E20.dll
-Non platform assembly: data-1C618008 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C618008.dll
-Non platform assembly: data-1C61C010 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C61C010.dll
-Non platform assembly: data-1C5D31F0 (this message is harmless)
-Non platform assembly: data-1C4981A8 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C4981A8.dll
-Non platform assembly: data-1C5BB1F0 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C5BB1F0.dll
-Non platform assembly: data-1C4C3010 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C4C3010.dll
-Non platform assembly: data-18F11018 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18F11018.dll
-Non platform assembly: data-18F24620 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18F24620.dll
-Non platform assembly: data-1C404E38 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C404E38.dll
-Non platform assembly: data-1C5D4208 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C5D4208.dll
-Non platform assembly: data-18F29E28 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18F29E28.dll
-Non platform assembly: data-1C594208 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C594208.dll
-Non platform assembly: data-18F2D030 (this message is harmless)
-Non platform assembly: data-1C5AC008 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C5AC008.dll
+Non platform assembly: data-1B09AE40 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B09AE40.dll
+Non platform assembly: data-1B0A5688 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B0A5688.dll
+Non platform assembly: data-1B0AFA98 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B0AFA98.dll
+Non platform assembly: data-1B09FE48 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B09FE48.dll
+Non platform assembly: data-17EB3018 (this message is harmless)
+Non platform assembly: data-17EB3018 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-17EB3018.dll
+Non platform assembly: data-1B0D6018 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B0D6018.dll
+Non platform assembly: data-1B0DA020 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B0DA020.dll
+Non platform assembly: data-1B0DF428 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B0DF428.dll
+Non platform assembly: data-1B0E3830 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B0E3830.dll
+Non platform assembly: data-1B0FD858 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B0FD858.dll
+Non platform assembly: data-1B126008 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B126008.dll
+Non platform assembly: data-1B171020 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B171020.dll
+Non platform assembly: data-1B007008 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B007008.dll
+Non platform assembly: data-1B273018 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B273018.dll
+Non platform assembly: data-1B277020 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B277020.dll
+Non platform assembly: data-17EAF020 (this message is harmless)
+Non platform assembly: data-17EAF020 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-17EAF020.dll
+Non platform assembly: data-1B27C028 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B27C028.dll
+Non platform assembly: data-17EB0A28 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-17EB0A28.dll
+Non platform assembly: data-1B295008 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B295008.dll
+Non platform assembly: data-1B1E6010 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B1E6010.dll
+Non platform assembly: data-1B2AA818 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B2AA818.dll
+Non platform assembly: data-1B2B0E28 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B2B0E28.dll
+Non platform assembly: data-1B2B7630 (this message is harmless)
+Non platform assembly: data-1B2B7630 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B2B7630.dll
 Exception reading Stats_Pawns_WorkMedical.xml as XML: System.Xml.XmlException: 'li' is expected  Line 112, position 8.
   at Mono.Xml2.XmlTextReader.Expect (System.String expected) [0x00000] in <filename unknown>:0 
   at Mono.Xml2.XmlTextReader.ReadEndTag () [0x00000] in <filename unknown>:0 
@@ -153,17 +353,883 @@ Exception reading Stats_Pawns_WorkMedical.xml as XML: System.Xml.XmlException: '
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Non platform assembly: data-18F2D030 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18F2D030.dll
-Non platform assembly: data-1C631020 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C631020.dll
-Non platform assembly: data-1C63AE28 (this message is harmless)
-Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C63AE28.dll
+Non platform assembly: data-17EAB018 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-17EAB018.dll
+Non platform assembly: data-1B214028 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B214028.dll
+Non platform assembly: data-1B21DE30 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1B21DE30.dll
+--- Thread 2 ---
+ 38814ms LoadAllPlayData
+ - 16717ms Load all active mods.
+ - - 3505ms Loading [Core|Core]
+ - - - 3503ms Loading all defs
+ - - 8ms Loading [818773962|HugsLib]
+ - - - 2ms Loading all defs
+ - - 5ms Loading [834016280|Less Arbitrary Surgery]
+ - - - 0ms Loading all defs
+ - - 79ms Loading [818322128|Facial Stuff 0.16.1.0]
+ - - - 75ms Loading all defs
+ - - 32ms Loading [735106432|EdB Prepare Carefully]
+ - - - 26ms Loading all defs
+ - - 23ms Loading [715565262|Colony Manager]
+ - - - 18ms Loading all defs
+ - - 394ms Loading [765890823|Call of Cthulhu - Cosmic Horrors A16]
+ - - - 389ms Loading all defs
+ - - 20ms Loading [763418547|H.P. Lovecraft Storyteller V1.2 A16]
+ - - - 20ms Loading all defs
+ - - 111ms Loading [777197241|Call of Cthulhu - Industrial Age Objects A16]
+ - - - 106ms Loading all defs
+ - - 362ms Loading [815039373|Call of Cthulhu - Cults A16]
+ - - - 337ms Loading all defs
+ - - 246ms Loading [764375772|Call of Cthulhu - Factions V1.7 A16]
+ - - - 206ms Loading all defs
+ - - 977ms Loading [732569232|Medieval Times]
+ - - - 977ms Loading all defs
+ - - 621ms Loading [725956940|Expanded Prosthetics and Organ Engineering]
+ - - - 621ms Loading all defs
+ - - 6ms Loading [839005762|Humanoid Alien Races]
+ - - - 0ms Loading all defs
+ - - 224ms Loading [733113011|Orassans]
+ - - - 221ms Loading all defs
+ - - 99ms Loading [Orassan (EPOE Patch)|Orassans (EPOE Patch)]
+ - - - 99ms Loading all defs
+ - - 89ms Loading [834253740|RimEffect - Asari of the Rims]
+ - - - 89ms Loading all defs
+ - - 56ms Loading [836268476|RimGate - Jaffa, Kree! 4.0]
+ - - - 56ms Loading all defs
+ - - 570ms Loading [730899625|RT's Weapon Pack]
+ - - - 570ms Loading all defs
+ - - 88ms Loading [753498552|Hospitality A16]
+ - - - 82ms Loading all defs
+ - - 14ms Loading [761219125|Defensive Positions]
+ - - - 7ms Loading all defs
+ - - 18ms Loading [780996548|RimFridge]
+ - - - 14ms Loading all defs
+ - - 11ms Loading [750111404|Crafting Hysteresis]
+ - - - 6ms Loading all defs
+ - - 90ms Loading [730528968|More Vanilla Turrets]
+ - - - 90ms Loading all defs
+ - - 8ms Loading [776679895|Hand Me That Brick]
+ - - - 3ms Loading all defs
+ - - 81ms Loading [725623521|[T] MoreFloors]
+ - - - 81ms Loading all defs
+ - - 5ms Loading [785754949|OSHA Compliance]
+ - - - 2ms Loading all defs
+ - - 5ms Loading [817231829|I Can Fix It!]
+ - - - 1ms Loading all defs
+ - - 8ms Loading [754637870|QualityBuilder]
+ - - - 4ms Loading all defs
+ - - 1180ms Loading [822470192|Vegetable Garden ]
+ - - - 1176ms Loading all defs
+ - - 154ms Loading [739089840|More Furniture]
+ - - - 154ms Loading all defs
+ - - 21ms Loading [727309536|LT-DoorMat]
+ - - - 17ms Loading all defs
+ - - 16ms Loading [761421485|Allow Tool]
+ - - - 7ms Loading all defs
+ - - 12ms Loading [832990295|Set-Up Camp]
+ - - - 7ms Loading all defs
+ - - 36ms Loading [704181221|Miscellaneous 'CORE']
+ - - - 28ms Loading all defs
+ - - 122ms Loading [724602224|Misc. Robots]
+ - - - 114ms Loading all defs
+ - - 25ms Loading [717575199|Misc. Training]
+ - - - 21ms Loading all defs
+ - - 355ms Loading [725947920|Rimsenal]
+ - - - 355ms Loading all defs
+ - - 7ms Loading [725949967|Rimsenal - Rimhair]
+ - - - 7ms Loading all defs
+ - - 74ms Loading [736139206|Rimsenal - Security pack]
+ - - - 74ms Loading all defs
+ - - 293ms Loading [736172213|Rimsenal - Federation]
+ - - - 293ms Loading all defs
+ - - 260ms Loading [736207111|Rimsenal - Feral]
+ - - - 260ms Loading all defs
+ - - 85ms Loading [849231601|Rimsenal - Enhanced Vanilla Pack]
+ - - - 85ms Loading all defs
+ - - 7ms Loading [822180758|Trading Spot]
+ - - - 3ms Loading all defs
+ - - 596ms Loading [725576127|Glitter Tech]
+ - - - 596ms Loading all defs
+ - - 4ms Loading [731111514|Mad Skills]
+ - - - 0ms Loading all defs
+ - - 17ms Loading [810339752|Look At Me, I'm The Worker Now]
+ - - - 14ms Loading all defs
+ - - 25ms Loading [760088748|[sd] advanced powergeneration]
+ - - - 21ms Loading all defs
+ - - 5ms Loading [779592154|The Mad Rabbits of Caerbannog]
+ - - - 1ms Loading all defs
+ - - 28ms Loading [840043916|Mod List Backup]
+ - - - 0ms Loading all defs
+ - - 303ms Loading [747645520|Misc. Robots++]
+ - - - 303ms Loading all defs
+ - - 8ms Loading [830221184|More vanilla factions]
+ - - - 8ms Loading all defs
+ - - 681ms Loading [746425621|A Dog Said...]
+ - - - 681ms Loading all defs
+ - - 1ms Loading [814898788|Silly Builder, Surgery is for Doctors]
+ - - - 1ms Loading all defs
+ - - 3ms Loading [760708576|[sd] chicken nest]
+ - - - 3ms Loading all defs
+ - - 48ms Loading [766264659|Misc. Bees'n'Honey]
+ - - - 43ms Loading all defs
+ - - 14ms Loading [774577413|Quantum Cooling]
+ - - - 14ms Loading all defs
+ - - 118ms Loading [726855894|USCM - Core]
+ - - - 114ms Loading all defs
+ - - 23ms Loading [726859932|USCM - Turret]
+ - - - 23ms Loading all defs
+ - - 70ms Loading [759866027|USCM - Colonial Marines Corps Faction]
+ - - - 70ms Loading all defs
+ - - 12ms Loading [728315620|RT Solar Flare Shield]
+ - - - 7ms Loading all defs
+ - - 255ms Loading [775703802|Infinity Rim: Ariadna]
+ - - - 255ms Loading all defs
+ - - 49ms Loading [764301651|Jecrell's Tobacco and Cigarettes V1.3d]
+ - - - 49ms Loading all defs
+ - - 8ms Loading [824303869|Chemfuel Generator]
+ - - - 8ms Loading all defs
+ - - 28ms Loading [727626696|Mind Altering Device]
+ - - - 24ms Loading all defs
+ - - 42ms Loading [798086114|Bonsaiplus]
+ - - - 42ms Loading all defs
+ - - 5ms Loading [797801997|Growing Plots]
+ - - - 5ms Loading all defs
+ - - 10ms Loading [794038005|PrisonerRansom (A16)]
+ - - - 0ms Loading all defs
+ - - 642ms Loading [734709234|A Dog Said...NoCrafting]
+ - - - 642ms Loading all defs
+ - - 69ms Loading [775544207|A Dog Said-EPOE compatibility patch]
+ - - - 69ms Loading all defs
+ - - 94ms Loading [824865457|DE Surgeries]
+ - - - 94ms Loading all defs
+ - - 452ms Loading [841878611|EPOE Combined Asari and Jaffa patch]
+ - - - 452ms Loading all defs
+ - - 14ms Loading [822107128|Core Driller]
+ - - - 14ms Loading all defs
+ - - 6ms Loading [822106946|Core Driller - Stone Addon]
+ - - - 6ms Loading all defs
+ - - 2ms Loading [822106352|Core Driller - Glitter Tech Addon]
+ - - - 2ms Loading all defs
+ - - 112ms Loading [837094164|RimEffect - Weapons and Armor]
+ - - - 112ms Loading all defs
+ - - 25ms Loading [834999520|Better RimDoctors v1.2]
+ - - - 25ms Loading all defs
+ - - 3ms Loading [836351075|Better RimDoctors - EPOE Patch v1.1]
+ - - - 3ms Loading all defs
+ - - 19ms Loading [794133184|Raiderpedes]
+ - - - 19ms Loading all defs
+ - - 6ms Loading [825487565|ResearchList]
+ - - - 1ms Loading all defs
+ - - 85ms Loading [764385851|CPHaulage - B-Team]
+ - - - 85ms Loading all defs
+ - - 289ms Loading [747647690|[A16] Talons Faction 1.6 New pawns and races]
+ - - - 289ms Loading all defs
+ - - 59ms Loading [727710731|Misc. Objects]
+ - - - 52ms Loading all defs
+ - - 50ms Loading [768448143|CPBeasties]
+ - - - 50ms Loading all defs
+ - - 599ms Loading [CPBeasties ADS Patch|CPBeasties ADS Patch]
+ - - - 599ms Loading all defs
+ - - 129ms Loading [Taiga_Creatures|Taiga Creatures]
+ - - - 129ms Loading all defs
+ - - 146ms Loading [TC⁄ADS compatch|Taiga Creatures / A Dog Said compatch]
+ - - - 145ms Loading all defs
+ - 68ms Load language metadata.
+ - 396ms Loading language data: German
+ - 149ms Copy all Defs from mods to global databases.
+ - 510ms Resolve cross-references between non-implied Defs.
+ - 63ms Rebind defs (early).
+ - 39ms Generate implied Defs (pre-resolve).
+ - 0ms Resolve cross-references between Defs made by the implied defs.
+ - 34ms Rebind DefOfs (final).
+ - 314ms Other def binding, resetting and global operations.
+ - 20208ms Resolve references.
+ - 2ms Generate implied Defs (post-resolve).
+ - 196ms Error check all defs.
+ - 30ms Load keyboard preferences.
+ - 79ms Short hash giving.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 2791ms Loading assets of type UnityEngine.Texture2D for mod 818322128
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 11ms Loading assets of type UnityEngine.Texture2D for mod 735106432
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 50ms Loading assets of type UnityEngine.Texture2D for mod 715565262
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 227ms Loading assets of type UnityEngine.AudioClip for mod 765890823
+ - 32ms Loading file CosmicHorrors/Chthonian_Call
+ - 8ms Loading file CosmicHorrors/Chthonian_Death
+ - 5ms Loading file CosmicHorrors/Chthonian_Moving
+ - 18ms Loading file CosmicHorrors/Chthonian_Pit
+ - 6ms Loading file CosmicHorrors/Chthonian_Scream
+ - 26ms Loading file CosmicHorrors/Chthonian_Wounded
+ - 8ms Loading file CosmicHorrors/Cthulhid_Call
+ - 5ms Loading file CosmicHorrors/DarkYoung_Call
+ - 4ms Loading file CosmicHorrors/DarkYoung_Call2
+ - 5ms Loading file CosmicHorrors/DarkYoung_Death
+ - 4ms Loading file CosmicHorrors/DarkYoung_Wounded
+ - 4ms Loading file CosmicHorrors/DeepOne_Call
+ - 4ms Loading file CosmicHorrors/DeepOne_Death
+ - 4ms Loading file CosmicHorrors/DeepOne_Wounded
+ - 4ms Loading file CosmicHorrors/MiGo_Call
+ - 4ms Loading file CosmicHorrors/MiGo_Death
+ - 4ms Loading file CosmicHorrors/MiGo_Wounded
+ - 4ms Loading file CosmicHorrors/Shoggoth_Call-old1
+ - 4ms Loading file CosmicHorrors/Shoggoth_Call
+ - 4ms Loading file CosmicHorrors/Shoggoth_Death
+ - 4ms Loading file CosmicHorrors/Shoggoth_Wounded
+ - 34ms Loading file CosmicHorrors/StarVampire_Call
+ - 5ms Loading file CosmicHorrors/StarVampire_Death
+ - 7ms Loading file CosmicHorrors/StarVampire_Warning
+ - 5ms Loading file CosmicHorrors/StarVampire_Wounded
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 155ms Loading assets of type UnityEngine.Texture2D for mod 765890823
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 38ms Loading assets of type UnityEngine.Texture2D for mod 763418547
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 137ms Loading assets of type UnityEngine.AudioClip for mod 777197241
+ - 17ms Loading file Gramophone/AintMisbehavin
+ - 21ms Loading file Gramophone/Charleston
+ - 7ms Loading file Gramophone/Gramophone_Windup
+ - 21ms Loading file Gramophone/InTheMood
+ - 23ms Loading file Gramophone/ItDontMeanAThing
+ - 19ms Loading file Gramophone/KingPorterStomp
+ - 7ms Loading file Radio/RadioSeeking
+ - 8ms Loading file Refrigerator/RefrigeratorAmbience
+ - 9ms Loading file Typewriter/ManualTyping
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 117ms Loading assets of type UnityEngine.Texture2D for mod 777197241
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 19ms Loading assets of type UnityEngine.AudioClip for mod 815039373
+ - 7ms Loading file Voices/PencilWriting
+ - 10ms Loading file Voices/SacrificeWhispers
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 339ms Loading assets of type UnityEngine.Texture2D for mod 815039373
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 25ms Loading assets of type UnityEngine.AudioClip for mod 764375772
+ - 5ms Loading file Flare1
+ - 5ms Loading file Harpoon1
+ - 5ms Loading file Revolver1
+ - 7ms Loading file Revolver2
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 252ms Loading assets of type UnityEngine.Texture2D for mod 764375772
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 2ms Loading assets of type UnityEngine.AudioClip for mod 732569232
+ - 2ms Loading file Video_Game_Splash-Ploor-699235037
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 1261ms Loading assets of type UnityEngine.Texture2D for mod 732569232
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 2ms Loading assets of type UnityEngine.AudioClip for mod 725956940
+ - 1ms Loading file EPOEAssembling
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 57ms Loading assets of type UnityEngine.Texture2D for mod 725956940
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 241ms Loading assets of type UnityEngine.Texture2D for mod 733113011
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 191ms Loading assets of type UnityEngine.Texture2D for mod 834253740
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 2ms Loading assets of type UnityEngine.AudioClip for mod 836268476
+ - 0ms Loading file Weapon/JaffaStaff_Fire
+ - 0ms Loading file Weapon/ZatGun_Fire
+ - 0ms Loading file Weapon/ZatGun_Interact
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 104ms Loading assets of type UnityEngine.Texture2D for mod 836268476
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 188ms Loading assets of type UnityEngine.AudioClip for mod 730899625
+ - 5ms Loading file AACHoneyBadger/AAC Honey Badger 
+ - 4ms Loading file AK-47/AK-47
+ - 6ms Loading file AUG/AUG
+ - 5ms Loading file AWM/AWM
+ - 7ms Loading file Barrett/Barret
+ - 6ms Loading file DesertEagle/DesertEagle
+ - 6ms Loading file DP-12/DP-12
+ - 4ms Loading file Dragunov/Dragunov
+ - 6ms Loading file Famas/Famas
+ - 5ms Loading file Flashbang/Flashbang
+ - 5ms Loading file Glock17/Glock17
+ - 6ms Loading file GrenadeLauncher/GrenadeLauncher40mm
+ - 5ms Loading file L85A2/L85A2
+ - 6ms Loading file L96A1/L96A1
+ - 5ms Loading file LVOA/LVOA-C
+ - 5ms Loading file M1014/M1014
+ - 5ms Loading file M249/M249
+ - 6ms Loading file M4/M4
+ - 5ms Loading file MP40/MP40
+ - 6ms Loading file MP7/MP7
+ - 4ms Loading file RPG-7/RPG-7
+ - 4ms Loading file SCARL/SCARL
+ - 6ms Loading file Scout/scout
+ - 6ms Loading file Skorpionvz61/Skorpion vz 61
+ - 5ms Loading file SPAS-12/SPAS-12
+ - 6ms Loading file Tavor/IWI Tavor
+ - 5ms Loading file USAS12/usas12
+ - 5ms Loading file Uzi/UZI
+ - 6ms Loading file VSSVintorez/VSSVintorez
+ - 6ms Loading file Winchester1887/Winchester1887
+ - 4ms Loading file XM8/XM8
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 103ms Loading assets of type UnityEngine.Texture2D for mod 730899625
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 17ms Loading assets of type UnityEngine.Texture2D for mod 753498552
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 6ms Loading assets of type UnityEngine.Texture2D for mod 761219125
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 35ms Loading assets of type UnityEngine.Texture2D for mod 780996548
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 115ms Loading assets of type UnityEngine.Texture2D for mod 730528968
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 2685ms Loading assets of type UnityEngine.Texture2D for mod 725623521
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 1ms Loading assets of type UnityEngine.Texture2D for mod 754637870
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
 OnLevelWasLoaded was found on ModInitializerComponent
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
  
 (Filename:  Line: 375)
+
+--- Main thread ---
+ 374ms Loading assets of type UnityEngine.Texture2D for mod 822470192
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 216ms Loading assets of type UnityEngine.Texture2D for mod 739089840
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 2ms Loading assets of type UnityEngine.Texture2D for mod 727309536
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 4ms Loading assets of type UnityEngine.Texture2D for mod 761421485
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 2ms Loading assets of type UnityEngine.Texture2D for mod 832990295
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 2ms Loading assets of type UnityEngine.Texture2D for mod 704181221
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 55ms Loading assets of type UnityEngine.Texture2D for mod 724602224
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 5ms Loading assets of type UnityEngine.AudioClip for mod 717575199
+ - 4ms Loading file Interact/Joy/ArrowImpact
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 18ms Loading assets of type UnityEngine.Texture2D for mod 717575199
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 193ms Loading assets of type UnityEngine.AudioClip for mod 725947920
+ - 6ms Loading file Things/Beowulf
+ - 6ms Loading file Things/Caracal
+ - 5ms Loading file Things/CP
+ - 5ms Loading file Things/CPR
+ - 5ms Loading file Things/CR
+ - 5ms Loading file Things/Fafnir
+ - 4ms Loading file Things/Gdgrenade
+ - 5ms Loading file Things/GRC
+ - 5ms Loading file Things/Grendel
+ - 5ms Loading file Things/GRM
+ - 5ms Loading file Things/GRS
+ - 5ms Loading file Things/Harrower
+ - 5ms Loading file Things/HC
+ - 3ms Loading file Things/ImpactB
+ - 5ms Loading file Things/ImpactL
+ - 5ms Loading file Things/ImpactM
+ - 5ms Loading file Things/IRAD
+ - 5ms Loading file Things/IRGD
+ - 5ms Loading file Things/IRTE
+ - 5ms Loading file Things/IRYP
+ - 37ms Loading file Things/JI
+ - 5ms Loading file Things/Lynx
+ - 3ms Loading file Things/Microwave
+ - 5ms Loading file Things/Muspell
+ - 4ms Loading file Things/OpticBurst
+ - 4ms Loading file Things/Plasma
+ - 4ms Loading file Things/PlasmaEXP
+ - 4ms Loading file Things/Shard
+ - 5ms Loading file Things/Spike
+ - 5ms Loading file Things/Swarm
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 303ms Loading assets of type UnityEngine.Texture2D for mod 725947920
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 93ms Loading assets of type UnityEngine.Texture2D for mod 725949967
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 13ms Loading assets of type UnityEngine.AudioClip for mod 736139206
+ - 6ms Loading file Things/Blixt
+ - 6ms Loading file Things/Orkan
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 47ms Loading assets of type UnityEngine.Texture2D for mod 736139206
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 149ms Loading assets of type UnityEngine.AudioClip for mod 736172213
+ - 4ms Loading file Things/Beep
+ - 3ms Loading file Things/BionAngry
+ - 3ms Loading file Things/BionCall
+ - 3ms Loading file Things/BionDeath
+ - 3ms Loading file Things/BionHitBuilding
+ - 3ms Loading file Things/BionHitPawn
+ - 3ms Loading file Things/BionMiss
+ - 3ms Loading file Things/BionWound
+ - 5ms Loading file Things/CP
+ - 6ms Loading file Things/CPR
+ - 5ms Loading file Things/CR
+ - 5ms Loading file Things/HC
+ - 3ms Loading file Things/Ionic
+ - 3ms Loading file Things/IonicBlast
+ - 5ms Loading file Things/IRAD
+ - 5ms Loading file Things/MechAngry
+ - 5ms Loading file Things/MechCall
+ - 3ms Loading file Things/MechDeath
+ - 3ms Loading file Things/MechHitBuilding
+ - 3ms Loading file Things/MechHitPawn
+ - 5ms Loading file Things/MechMiss
+ - 5ms Loading file Things/MechRocket
+ - 5ms Loading file Things/MechWound
+ - 4ms Loading file Things/OpticBurst
+ - 35ms Loading file Things/Plasma
+ - 4ms Loading file Things/PlasmaEXP
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 162ms Loading assets of type UnityEngine.Texture2D for mod 736172213
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 56ms Loading assets of type UnityEngine.AudioClip for mod 736207111
+ - 6ms Loading file Things/Crucifier
+ - 5ms Loading file Things/Deathdealer
+ - 5ms Loading file Things/Gnasher
+ - 5ms Loading file Things/MADness
+ - 3ms Loading file Things/Napalm
+ - 5ms Loading file Things/ScatterStick
+ - 5ms Loading file Things/Scorcher
+ - 5ms Loading file Things/Scraptooth
+ - 6ms Loading file Things/Siren
+ - 5ms Loading file Things/Thrasher
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 178ms Loading assets of type UnityEngine.Texture2D for mod 736207111
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 81ms Loading assets of type UnityEngine.Texture2D for mod 849231601
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 18ms Loading assets of type UnityEngine.AudioClip for mod 725576127
+ - 1ms Loading file Ambience/MatterFab
+ - 1ms Loading file Ambience/PlasmaTurbine
+ - 1ms Loading file Ambience/XITurbine
+ - 0ms Loading file Pawn/Vehicle/EngineRev
+ - 1ms Loading file Pawn/Vehicle/VehicleDeath
+ - 0ms Loading file Weapons/APBProj
+ - 0ms Loading file Weapons/APBRifle
+ - 1ms Loading file Weapons/Cannon
+ - 1ms Loading file Weapons/EM
+ - 1ms Loading file Weapons/EM_small
+ - 1ms Loading file Weapons/Missile1
+ - 1ms Loading file Weapons/Missile2
+ - 0ms Loading file Weapons/OCDRifle
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 294ms Loading assets of type UnityEngine.Texture2D for mod 725576127
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 44ms Loading assets of type UnityEngine.Texture2D for mod 760088748
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 99ms Loading assets of type UnityEngine.Texture2D for mod 747645520
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 6ms Loading assets of type UnityEngine.Texture2D for mod 746425621
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 4ms Loading assets of type UnityEngine.Texture2D for mod 760708576
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 10ms Loading assets of type UnityEngine.Texture2D for mod 766264659
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 4ms Loading assets of type UnityEngine.Texture2D for mod 774577413
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 5ms Loading assets of type UnityEngine.AudioClip for mod 726855894
+ - 0ms Loading file Weapons/88mod4
+ - 0ms Loading file Weapons/M240
+ - 0ms Loading file Weapons/M37A2
+ - 0ms Loading file Weapons/M41A
+ - 0ms Loading file Weapons/M42A
+ - 0ms Loading file Weapons/M4A3
+ - 0ms Loading file Weapons/M4A4
+ - 0ms Loading file Weapons/M5
+ - 0ms Loading file Weapons/M56
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 132ms Loading assets of type UnityEngine.Texture2D for mod 726855894
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 1ms Loading assets of type UnityEngine.AudioClip for mod 726859932
+ - 0ms Loading file Weapons/UA571C
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 5ms Loading assets of type UnityEngine.Texture2D for mod 726859932
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 1ms Loading assets of type UnityEngine.Texture2D for mod 759866027
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 4ms Loading assets of type UnityEngine.Texture2D for mod 728315620
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 65ms Loading assets of type UnityEngine.AudioClip for mod 775703802
+ - 6ms Loading file Things/APRifle
+ - 6ms Loading file Things/APSniperRifle
+ - 6ms Loading file Things/AssaultPistol
+ - 6ms Loading file Things/AutoCannon
+ - 6ms Loading file Things/BoardingShotgun
+ - 6ms Loading file Things/HeavyPistol
+ - 6ms Loading file Things/ITAHW
+ - 5ms Loading file Things/ITAW
+ - 6ms Loading file Things/MissileLauncher
+ - 6ms Loading file Things/Molotok
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 148ms Loading assets of type UnityEngine.Texture2D for mod 775703802
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 7ms Loading assets of type UnityEngine.Texture2D for mod 764301651
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 2ms Loading assets of type UnityEngine.Texture2D for mod 824303869
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 11ms Loading assets of type UnityEngine.Texture2D for mod 727626696
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 12ms Loading assets of type UnityEngine.Texture2D for mod 798086114
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 9ms Loading assets of type UnityEngine.Texture2D for mod 797801997
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 2ms Loading assets of type UnityEngine.Texture2D for mod 734709234
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 2ms Loading assets of type UnityEngine.Texture2D for mod 775544207
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 10ms Loading assets of type UnityEngine.AudioClip for mod 837094164
+ - 0ms Loading file Weapon/m23katana_fire
+ - 1ms Loading file Weapon/m300claymore_fire
+ - 0ms Loading file Weapon/m3predator_fire
+ - 0ms Loading file Weapon/m4shuriken_fire
+ - 0ms Loading file Weapon/m5phalanx_fire
+ - 0ms Loading file Weapon/m76revenant_fire
+ - 0ms Loading file Weapon/m8avenger_fire
+ - 0ms Loading file Weapon/m92mantis_fire
+ - 1ms Loading file Weapon/m96mattock_fire
+ - 1ms Loading file Weapon/m98widow_fire
+ - 0ms Loading file Weapon/m9tempest_fire
+ - 0ms Loading file Weapon/n7hurricane_fire
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 35ms Loading assets of type UnityEngine.Texture2D for mod 837094164
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 7ms Loading assets of type UnityEngine.Texture2D for mod 794133184
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 10ms Loading assets of type UnityEngine.Texture2D for mod 747647690
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 21ms Loading assets of type UnityEngine.Texture2D for mod 727710731
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 15ms Loading assets of type UnityEngine.Texture2D for mod 768448143
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 16ms Loading assets of type UnityEngine.AudioClip for mod Taiga_Creatures
+ - 1ms Loading file Horse/horse_scream
+ - 0ms Loading file Horse/horse_snort
+ - 3ms Loading file Horse/horse_whinny
+ - 1ms Loading file Megabadger/Megabadger_growl
+ - 0ms Loading file Megabadger/Megabadger_growl2
+ - 2ms Loading file Megabadger/Megabadger_growl_low
+ - 3ms Loading file Megabadger/Megabadger_roar
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 126ms Loading assets of type UnityEngine.Texture2D for mod Taiga_Creatures
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 1113ms Load backstories.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
 Def-linked translation error: Found no Verse.ThingDef named SunLamp_Blueprint_Install to match SunLamp_Blueprint_Install.label
  
@@ -182,6 +1248,12 @@ Def-linked translation error: Found no RimWorld.WorkGiverDef named DoBillsTableS
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
 Def-linked translation error: Found no RimWorld.WorkGiverDef named DoBillsTableSynthetics to match DoBillsTableSynthetics.gerund
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 144ms Inject selected language data into game data.
+
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -209,7 +1281,17 @@ CustomFactionBases detoured!
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-[HugsLib] v2.3.3 initialized DefensivePositions, HandMeThatBrick, AllowTool, ModListBackup, LessArbitrarySurgery, PrisonerRansom
+Type ModInitializer probably needs a StaticConstructorOnStartup attribute, because it has a field obj of type GameObject. All assets must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 139ms Loading language data: English
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+[HugsLib] v2.3.3 initialized LessArbitrarySurgery, DefensivePositions, HandMeThatBrick, AllowTool, ModListBackup, PrisonerRansom
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -237,31 +1319,35 @@ Initiated Alien Pawn Detours.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-AlienRace: Detouring 'Verse.GenSpawn.Spawn @ 0x1C270278' to 'AlienRace.GenSpawnAlien.SpawnModded @ 0x1C270608'
+AlienRace: Detouring 'Verse.GenSpawn.Spawn @ 0x6CF04980' to 'AlienRace.GenSpawnAlien.SpawnModded @ 0x6CF04D10'
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-AlienRace: Detouring 'RimWorld.InteractionWorker_RecruitAttempt.DoRecruit @ 0x1C2709E0' to 'AlienRace.AlienRaceUtilities.DoRecruitAlien @ 0x1C271710'
+AlienRace: Detouring 'RimWorld.InteractionWorker_RecruitAttempt.DoRecruit @ 0x6CF050E8' to 'AlienRace.AlienRaceUtilities.DoRecruitAlien @ 0x6CF05E18'
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-AlienRace: Detouring 'RimWorld.FloatMenuMakerMap.AddHumanlikeOrders @ 0x1C1C4990' to 'AlienRace.MenuMakerMapRestricted.AddHumanlikeOrders @ 0x1C271FE8'
+AlienRace: Detouring 'RimWorld.FloatMenuMakerMap.AddHumanlikeOrders @ 0x1AD54B50' to 'AlienRace.MenuMakerMapRestricted.AddHumanlikeOrders @ 0x6CF066F0'
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-AlienRace: Detouring 'Verse.StartingPawnUtility.NewGeneratedStartingPawn @ 0x1C275808' to 'AlienRace.AlienRaceUtilities.NewGeneratedStartingPawnModded @ 0x1C275A68'
+AlienRace: Detouring 'Verse.StartingPawnUtility.NewGeneratedStartingPawn @ 0x6CF09F10' to 'AlienRace.AlienRaceUtilities.NewGeneratedStartingPawnModded @ 0x6CF0A170'
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-AlienRace: Detouring 'Verse.PawnGenerator.GeneratePawn @ 0x1C275FB0' to 'AlienRace.AlienPawnGenerator.GeneratePawn @ 0x1C276BA8'
+AlienRace: Detouring 'Verse.PawnGenerator.GeneratePawn @ 0x6CF0A6B8' to 'AlienRace.AlienPawnGenerator.GeneratePawn @ 0x6CF0B2B0'
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-AlienRace: Detouring 'Verse.PawnGenerator.GeneratePawn @ 0x1C277888' to 'AlienRace.AlienPawnGenerator.GeneratePawn @ 0x1C277C50'
+AlienRace: Detouring 'Verse.PawnGenerator.GeneratePawn @ 0x6CF0BF90' to 'AlienRace.AlienPawnGenerator.GeneratePawn @ 0x6CF0C358'
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
 Alien Pawn methods detoured!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RW_FacialStuff injected.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -289,65 +1375,17 @@ Mad Skills: detour succesful.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-RW_FacialStuff injected.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.070062 ms
+UnloadTime: 1.057262 ms
 QualityBuilder added property to '176' things
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
 
 Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 15913.
-Total: 87.985489 ms (FindLiveObjects: 0.455388 ms CreateObjectMapping: 1.440403 ms MarkObjects: 86.031387 ms  DeleteObjects: 0.057741 ms)
+Total: 77.109077 ms (FindLiveObjects: 1.019147 ms CreateObjectMapping: 1.696399 ms MarkObjects: 74.336357 ms  DeleteObjects: 0.056034 ms)
 
-Loading game from file Wir Landeten Hier with mods Core, HugsLib, EdB Prepare Carefully, Colony Manager, Call of Cthulhu - Cosmic Horrors A16, H.P. Lovecraft Storyteller V1.2 A16, Call of Cthulhu - Industrial Age Objects A16, Call of Cthulhu - Cults A16, Call of Cthulhu - Factions V1.7 A16, Medieval Times, Expanded Prosthetics and Organ Engineering, Humanoid Alien Races, Orassans, Orassans (EPOE Patch), RimEffect - Asari of the Rims, RimGate - Jaffa, Kree! 4.0, RT's Weapon Pack, Hospitality A16, Defensive Positions, RimFridge, Crafting Hysteresis, More Vanilla Turrets, Hand Me That Brick, [T] MoreFloors, OSHA Compliance, I Can Fix It!, QualityBuilder, Vegetable Garden , More Furniture, LT-DoorMat, Allow Tool, Set-Up Camp, Miscellaneous 'CORE', Misc. Robots, Misc. Training, Rimsenal, Rimsenal - Rimhair, Rimsenal - Security pack, Rimsenal - Federation, Rimsenal - Feral, Rimsenal - Enhanced Vanilla Pack, Trading Spot, Glitter Tech, Mad Skills, Look At Me, I'm The Worker Now, [sd] advanced powergeneration, The Mad Rabbits of Caerbannog, Mod List Backup, Misc. Robots++, More vanilla factions, A Dog Said..., Silly Builder, Surgery is for Doctors, Facial Stuff 0.16.1.0, [sd] chicken nest, Misc. Bees'n'Honey, Quantum Cooling, USCM - Core, USCM - Turret, USCM - Colonial Marines Corps Faction, RT Solar Flare Shield, Infinity Rim: Ariadna, Jecrell's Tobacco and Cigarettes V1.3d, Chemfuel Generator, Less Arbitrary Surgery, Mind Altering Device, Bonsaiplus, Growing Plots, PrisonerRansom (A16), A Dog Said...NoCrafting, A Dog Said-EPOE compatibility patch, DE Surgeries, EPOE Combined Asari and Jaffa patch, Core Driller, Core Driller - Stone Addon, Core Driller - Glitter Tech Addon, RimEffect - Weapons and Armor, Better RimDoctors v1.2, Better RimDoctors - EPOE Patch v1.1, Raiderpedes, ResearchList, CPHaulage - B-Team, [A16] Talons Faction 1.6 New pawns and races, Misc. Objects, CPBeasties, CPBeasties ADS Patch, Taiga Creatures, und Taiga Creatures / A Dog Said compatch
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+Loading game from file Wir Landeten Hier222 with mods Core, HugsLib, Less Arbitrary Surgery, Facial Stuff 0.16.1.0, EdB Prepare Carefully, Colony Manager, Call of Cthulhu - Cosmic Horrors A16, H.P. Lovecraft Storyteller V1.2 A16, Call of Cthulhu - Industrial Age Objects A16, Call of Cthulhu - Cults A16, Call of Cthulhu - Factions V1.7 A16, Medieval Times, Expanded Prosthetics and Organ Engineering, Humanoid Alien Races, Orassans, Orassans (EPOE Patch), RimEffect - Asari of the Rims, RimGate - Jaffa, Kree! 4.0, RT's Weapon Pack, Hospitality A16, Defensive Positions, RimFridge, Crafting Hysteresis, More Vanilla Turrets, Hand Me That Brick, [T] MoreFloors, OSHA Compliance, I Can Fix It!, QualityBuilder, Vegetable Garden , More Furniture, LT-DoorMat, Allow Tool, Set-Up Camp, Miscellaneous 'CORE', Misc. Robots, Misc. Training, Rimsenal, Rimsenal - Rimhair, Rimsenal - Security pack, Rimsenal - Federation, Rimsenal - Feral, Rimsenal - Enhanced Vanilla Pack, Trading Spot, Glitter Tech, Mad Skills, Look At Me, I'm The Worker Now, [sd] advanced powergeneration, The Mad Rabbits of Caerbannog, Mod List Backup, Misc. Robots++, More vanilla factions, A Dog Said..., Silly Builder, Surgery is for Doctors, [sd] chicken nest, Misc. Bees'n'Honey, Quantum Cooling, USCM - Core, USCM - Turret, USCM - Colonial Marines Corps Faction, RT Solar Flare Shield, Infinity Rim: Ariadna, Jecrell's Tobacco and Cigarettes V1.3d, Chemfuel Generator, Mind Altering Device, Bonsaiplus, Growing Plots, PrisonerRansom (A16), A Dog Said...NoCrafting, A Dog Said-EPOE compatibility patch, DE Surgeries, EPOE Combined Asari and Jaffa patch, Core Driller, Core Driller - Stone Addon, Core Driller - Glitter Tech Addon, RimEffect - Weapons and Armor, Better RimDoctors v1.2, Better RimDoctors - EPOE Patch v1.1, Raiderpedes, ResearchList, CPHaulage - B-Team, [A16] Talons Faction 1.6 New pawns and races, Misc. Objects, CPBeasties, CPBeasties ADS Patch, Taiga Creatures, und Taiga Creatures / A Dog Said compatch
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -363,7 +1401,20 @@ Strange meal recipes added to WoodStoveFurnace defs
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Thing-needing designation (Hunt target=null) had no thing target. Removing...
+[AllowTool] Injected 4 designators
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Thread 11 ---
+ 31113ms Loading game from file Wir Landeten Hier222
+ - 670ms InitLoading (read file)
+ - 0ms Load compressed things
+ - 3734ms Load non-compressed things
+ - 118ms ResolveAllCrossReferences
+ - 78ms DoAllPostLoadInits
+ - 3ms Merge compressed and non-compressed thing lists
+ - 315ms Spawn everything into the map
+
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -377,5 +1428,565 @@ Failed to find any texture while constructing Multi(initPath=Pawn/CosmicHorrors/
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
 
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24043.
-Total: 285.420013 ms (FindLiveObjects: 0.906509 ms CreateObjectMapping: 2.237972 ms MarkObjects: 282.216370 ms  DeleteObjects: 0.058594 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24095.
+Total: 313.937103 ms (FindLiveObjects: 1.400581 ms CreateObjectMapping: 2.801163 ms MarkObjects: 309.670197 ms  DeleteObjects: 0.063430 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.456900 ms
+QualityBuilder added property to '0' things
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 7699 unused Assets to reduce memory usage. Loaded Objects now: 17055.
+Total: 123.789063 ms (FindLiveObjects: 0.902812 ms CreateObjectMapping: 1.936750 ms MarkObjects: 102.221413 ms  DeleteObjects: 18.726948 ms)
+
+Loading game from file Wir Landeten Hier222 with mods Core, HugsLib, Less Arbitrary Surgery, Facial Stuff 0.16.1.0, EdB Prepare Carefully, Colony Manager, Call of Cthulhu - Cosmic Horrors A16, H.P. Lovecraft Storyteller V1.2 A16, Call of Cthulhu - Industrial Age Objects A16, Call of Cthulhu - Cults A16, Call of Cthulhu - Factions V1.7 A16, Medieval Times, Expanded Prosthetics and Organ Engineering, Humanoid Alien Races, Orassans, Orassans (EPOE Patch), RimEffect - Asari of the Rims, RimGate - Jaffa, Kree! 4.0, RT's Weapon Pack, Hospitality A16, Defensive Positions, RimFridge, Crafting Hysteresis, More Vanilla Turrets, Hand Me That Brick, [T] MoreFloors, OSHA Compliance, I Can Fix It!, QualityBuilder, Vegetable Garden , More Furniture, LT-DoorMat, Allow Tool, Set-Up Camp, Miscellaneous 'CORE', Misc. Robots, Misc. Training, Rimsenal, Rimsenal - Rimhair, Rimsenal - Security pack, Rimsenal - Federation, Rimsenal - Feral, Rimsenal - Enhanced Vanilla Pack, Trading Spot, Glitter Tech, Mad Skills, Look At Me, I'm The Worker Now, [sd] advanced powergeneration, The Mad Rabbits of Caerbannog, Mod List Backup, Misc. Robots++, More vanilla factions, A Dog Said..., Silly Builder, Surgery is for Doctors, [sd] chicken nest, Misc. Bees'n'Honey, Quantum Cooling, USCM - Core, USCM - Turret, USCM - Colonial Marines Corps Faction, RT Solar Flare Shield, Infinity Rim: Ariadna, Jecrell's Tobacco and Cigarettes V1.3d, Chemfuel Generator, Mind Altering Device, Bonsaiplus, Growing Plots, PrisonerRansom (A16), A Dog Said...NoCrafting, A Dog Said-EPOE compatibility patch, DE Surgeries, EPOE Combined Asari and Jaffa patch, Core Driller, Core Driller - Stone Addon, Core Driller - Glitter Tech Addon, RimEffect - Weapons and Armor, Better RimDoctors v1.2, Better RimDoctors - EPOE Patch v1.1, Raiderpedes, ResearchList, CPHaulage - B-Team, [A16] Talons Faction 1.6 New pawns and races, Misc. Objects, CPBeasties, CPBeasties ADS Patch, Taiga Creatures, und Taiga Creatures / A Dog Said compatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Added new filter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meat added to wax recipes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meal recipes added to WoodStoveFurnace defs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Thread 422 ---
+ 30708ms Loading game from file Wir Landeten Hier222
+ - 635ms InitLoading (read file)
+ - 0ms Load compressed things
+ - 3509ms Load non-compressed things
+ - 234ms ResolveAllCrossReferences
+ - 76ms DoAllPostLoadInits
+ - 2ms Merge compressed and non-compressed thing lists
+ - 227ms Spawn everything into the map
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24705.
+Total: 313.805389 ms (FindLiveObjects: 0.984446 ms CreateObjectMapping: 1.188105 ms MarkObjects: 311.579376 ms  DeleteObjects: 0.052621 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.623013 ms
+QualityBuilder added property to '0' things
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 7675 unused Assets to reduce memory usage. Loaded Objects now: 17224.
+Total: 125.042023 ms (FindLiveObjects: 1.297614 ms CreateObjectMapping: 2.555407 ms MarkObjects: 107.821472 ms  DeleteObjects: 13.366964 ms)
+
+Loading game from file Wir Landeten Hier222 with mods Core, HugsLib, Less Arbitrary Surgery, Facial Stuff 0.16.1.0, EdB Prepare Carefully, Colony Manager, Call of Cthulhu - Cosmic Horrors A16, H.P. Lovecraft Storyteller V1.2 A16, Call of Cthulhu - Industrial Age Objects A16, Call of Cthulhu - Cults A16, Call of Cthulhu - Factions V1.7 A16, Medieval Times, Expanded Prosthetics and Organ Engineering, Humanoid Alien Races, Orassans, Orassans (EPOE Patch), RimEffect - Asari of the Rims, RimGate - Jaffa, Kree! 4.0, RT's Weapon Pack, Hospitality A16, Defensive Positions, RimFridge, Crafting Hysteresis, More Vanilla Turrets, Hand Me That Brick, [T] MoreFloors, OSHA Compliance, I Can Fix It!, QualityBuilder, Vegetable Garden , More Furniture, LT-DoorMat, Allow Tool, Set-Up Camp, Miscellaneous 'CORE', Misc. Robots, Misc. Training, Rimsenal, Rimsenal - Rimhair, Rimsenal - Security pack, Rimsenal - Federation, Rimsenal - Feral, Rimsenal - Enhanced Vanilla Pack, Trading Spot, Glitter Tech, Mad Skills, Look At Me, I'm The Worker Now, [sd] advanced powergeneration, The Mad Rabbits of Caerbannog, Mod List Backup, Misc. Robots++, More vanilla factions, A Dog Said..., Silly Builder, Surgery is for Doctors, [sd] chicken nest, Misc. Bees'n'Honey, Quantum Cooling, USCM - Core, USCM - Turret, USCM - Colonial Marines Corps Faction, RT Solar Flare Shield, Infinity Rim: Ariadna, Jecrell's Tobacco and Cigarettes V1.3d, Chemfuel Generator, Mind Altering Device, Bonsaiplus, Growing Plots, PrisonerRansom (A16), A Dog Said...NoCrafting, A Dog Said-EPOE compatibility patch, DE Surgeries, EPOE Combined Asari and Jaffa patch, Core Driller, Core Driller - Stone Addon, Core Driller - Glitter Tech Addon, RimEffect - Weapons and Armor, Better RimDoctors v1.2, Better RimDoctors - EPOE Patch v1.1, Raiderpedes, ResearchList, CPHaulage - B-Team, [A16] Talons Faction 1.6 New pawns and races, Misc. Objects, CPBeasties, CPBeasties ADS Patch, Taiga Creatures, und Taiga Creatures / A Dog Said compatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Added new filter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meat added to wax recipes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meal recipes added to WoodStoveFurnace defs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Thread 423 ---
+ 30717ms Loading game from file Wir Landeten Hier222
+ - 707ms InitLoading (read file)
+ - 0ms Load compressed things
+ - 3600ms Load non-compressed things
+ - 109ms ResolveAllCrossReferences
+ - 48ms DoAllPostLoadInits
+ - 4ms Merge compressed and non-compressed thing lists
+ - 230ms Spawn everything into the map
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24877.
+Total: 345.751984 ms (FindLiveObjects: 1.002081 ms CreateObjectMapping: 1.829232 ms MarkObjects: 342.854950 ms  DeleteObjects: 0.063430 ms)
+
+--- Main thread ---
+ 0ms Global work for production manager
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 0ms Global work for forestry manager
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.514926 ms
+
+Unloading 7678 unused Assets to reduce memory usage. Loaded Objects now: 17285.
+Total: 146.016891 ms (FindLiveObjects: 0.909069 ms CreateObjectMapping: 1.163074 ms MarkObjects: 131.047119 ms  DeleteObjects: 12.896787 ms)
+
+Loading game from file Wir Landeten Hier222 with mods Core, HugsLib, Less Arbitrary Surgery, Facial Stuff 0.16.1.0, EdB Prepare Carefully, Colony Manager, Call of Cthulhu - Cosmic Horrors A16, H.P. Lovecraft Storyteller V1.2 A16, Call of Cthulhu - Industrial Age Objects A16, Call of Cthulhu - Cults A16, Call of Cthulhu - Factions V1.7 A16, Medieval Times, Expanded Prosthetics and Organ Engineering, Humanoid Alien Races, Orassans, Orassans (EPOE Patch), RimEffect - Asari of the Rims, RimGate - Jaffa, Kree! 4.0, RT's Weapon Pack, Hospitality A16, Defensive Positions, RimFridge, Crafting Hysteresis, More Vanilla Turrets, Hand Me That Brick, [T] MoreFloors, OSHA Compliance, I Can Fix It!, QualityBuilder, Vegetable Garden , More Furniture, LT-DoorMat, Allow Tool, Set-Up Camp, Miscellaneous 'CORE', Misc. Robots, Misc. Training, Rimsenal, Rimsenal - Rimhair, Rimsenal - Security pack, Rimsenal - Federation, Rimsenal - Feral, Rimsenal - Enhanced Vanilla Pack, Trading Spot, Glitter Tech, Mad Skills, Look At Me, I'm The Worker Now, [sd] advanced powergeneration, The Mad Rabbits of Caerbannog, Mod List Backup, Misc. Robots++, More vanilla factions, A Dog Said..., Silly Builder, Surgery is for Doctors, [sd] chicken nest, Misc. Bees'n'Honey, Quantum Cooling, USCM - Core, USCM - Turret, USCM - Colonial Marines Corps Faction, RT Solar Flare Shield, Infinity Rim: Ariadna, Jecrell's Tobacco and Cigarettes V1.3d, Chemfuel Generator, Mind Altering Device, Bonsaiplus, Growing Plots, PrisonerRansom (A16), A Dog Said...NoCrafting, A Dog Said-EPOE compatibility patch, DE Surgeries, EPOE Combined Asari and Jaffa patch, Core Driller, Core Driller - Stone Addon, Core Driller - Glitter Tech Addon, RimEffect - Weapons and Armor, Better RimDoctors v1.2, Better RimDoctors - EPOE Patch v1.1, Raiderpedes, ResearchList, CPHaulage - B-Team, [A16] Talons Faction 1.6 New pawns and races, Misc. Objects, CPBeasties, CPBeasties ADS Patch, Taiga Creatures, und Taiga Creatures / A Dog Said compatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+QualityBuilder added property to '0' things
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Added new filter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meat added to wax recipes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meal recipes added to WoodStoveFurnace defs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Thread 424 ---
+ 30915ms Loading game from file Wir Landeten Hier222
+ - 640ms InitLoading (read file)
+ - 0ms Load compressed things
+ - 3623ms Load non-compressed things
+ - 149ms ResolveAllCrossReferences
+ - 64ms DoAllPostLoadInits
+ - 2ms Merge compressed and non-compressed thing lists
+ - 216ms Spawn everything into the map
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24936.
+Total: 392.571625 ms (FindLiveObjects: 1.016019 ms CreateObjectMapping: 3.589346 ms MarkObjects: 387.904266 ms  DeleteObjects: 0.061439 ms)
+
+--- Main thread ---
+ 0ms Global work for production manager
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 0ms Global work for forestry manager
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.626711 ms
+QualityBuilder added property to '0' things
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 7676 unused Assets to reduce memory usage. Loaded Objects now: 17334.
+Total: 150.222351 ms (FindLiveObjects: 0.930971 ms CreateObjectMapping: 1.383230 ms MarkObjects: 134.794327 ms  DeleteObjects: 13.112391 ms)
+
+Loading game from file Wir Landeten Hier222 with mods Core, HugsLib, Less Arbitrary Surgery, Facial Stuff 0.16.1.0, EdB Prepare Carefully, Colony Manager, Call of Cthulhu - Cosmic Horrors A16, H.P. Lovecraft Storyteller V1.2 A16, Call of Cthulhu - Industrial Age Objects A16, Call of Cthulhu - Cults A16, Call of Cthulhu - Factions V1.7 A16, Medieval Times, Expanded Prosthetics and Organ Engineering, Humanoid Alien Races, Orassans, Orassans (EPOE Patch), RimEffect - Asari of the Rims, RimGate - Jaffa, Kree! 4.0, RT's Weapon Pack, Hospitality A16, Defensive Positions, RimFridge, Crafting Hysteresis, More Vanilla Turrets, Hand Me That Brick, [T] MoreFloors, OSHA Compliance, I Can Fix It!, QualityBuilder, Vegetable Garden , More Furniture, LT-DoorMat, Allow Tool, Set-Up Camp, Miscellaneous 'CORE', Misc. Robots, Misc. Training, Rimsenal, Rimsenal - Rimhair, Rimsenal - Security pack, Rimsenal - Federation, Rimsenal - Feral, Rimsenal - Enhanced Vanilla Pack, Trading Spot, Glitter Tech, Mad Skills, Look At Me, I'm The Worker Now, [sd] advanced powergeneration, The Mad Rabbits of Caerbannog, Mod List Backup, Misc. Robots++, More vanilla factions, A Dog Said..., Silly Builder, Surgery is for Doctors, [sd] chicken nest, Misc. Bees'n'Honey, Quantum Cooling, USCM - Core, USCM - Turret, USCM - Colonial Marines Corps Faction, RT Solar Flare Shield, Infinity Rim: Ariadna, Jecrell's Tobacco and Cigarettes V1.3d, Chemfuel Generator, Mind Altering Device, Bonsaiplus, Growing Plots, PrisonerRansom (A16), A Dog Said...NoCrafting, A Dog Said-EPOE compatibility patch, DE Surgeries, EPOE Combined Asari and Jaffa patch, Core Driller, Core Driller - Stone Addon, Core Driller - Glitter Tech Addon, RimEffect - Weapons and Armor, Better RimDoctors v1.2, Better RimDoctors - EPOE Patch v1.1, Raiderpedes, ResearchList, CPHaulage - B-Team, [A16] Talons Faction 1.6 New pawns and races, Misc. Objects, CPBeasties, CPBeasties ADS Patch, Taiga Creatures, und Taiga Creatures / A Dog Said compatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Added new filter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meat added to wax recipes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meal recipes added to WoodStoveFurnace defs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Thread 425 ---
+ 31729ms Loading game from file Wir Landeten Hier222
+ - 650ms InitLoading (read file)
+ - 0ms Load compressed things
+ - 3968ms Load non-compressed things
+ - 122ms ResolveAllCrossReferences
+ - 52ms DoAllPostLoadInits
+ - 2ms Merge compressed and non-compressed thing lists
+ - 242ms Spawn everything into the map
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24987.
+Total: 371.383118 ms (FindLiveObjects: 1.068640 ms CreateObjectMapping: 2.938263 ms MarkObjects: 367.315338 ms  DeleteObjects: 0.060016 ms)
+
+--- Main thread ---
+ 0ms Global work for production manager
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 0ms Global work for forestry manager
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.702656 ms
+
+Unloading 7677 unused Assets to reduce memory usage. Loaded Objects now: 17382.
+Total: 160.502289 ms (FindLiveObjects: 1.178149 ms CreateObjectMapping: 1.225935 ms MarkObjects: 145.278503 ms  DeleteObjects: 12.818564 ms)
+
+Loading game from file Wir Landeten Hier222 with mods Core, HugsLib, Less Arbitrary Surgery, Facial Stuff 0.16.1.0, EdB Prepare Carefully, Colony Manager, Call of Cthulhu - Cosmic Horrors A16, H.P. Lovecraft Storyteller V1.2 A16, Call of Cthulhu - Industrial Age Objects A16, Call of Cthulhu - Cults A16, Call of Cthulhu - Factions V1.7 A16, Medieval Times, Expanded Prosthetics and Organ Engineering, Humanoid Alien Races, Orassans, Orassans (EPOE Patch), RimEffect - Asari of the Rims, RimGate - Jaffa, Kree! 4.0, RT's Weapon Pack, Hospitality A16, Defensive Positions, RimFridge, Crafting Hysteresis, More Vanilla Turrets, Hand Me That Brick, [T] MoreFloors, OSHA Compliance, I Can Fix It!, QualityBuilder, Vegetable Garden , More Furniture, LT-DoorMat, Allow Tool, Set-Up Camp, Miscellaneous 'CORE', Misc. Robots, Misc. Training, Rimsenal, Rimsenal - Rimhair, Rimsenal - Security pack, Rimsenal - Federation, Rimsenal - Feral, Rimsenal - Enhanced Vanilla Pack, Trading Spot, Glitter Tech, Mad Skills, Look At Me, I'm The Worker Now, [sd] advanced powergeneration, The Mad Rabbits of Caerbannog, Mod List Backup, Misc. Robots++, More vanilla factions, A Dog Said..., Silly Builder, Surgery is for Doctors, [sd] chicken nest, Misc. Bees'n'Honey, Quantum Cooling, USCM - Core, USCM - Turret, USCM - Colonial Marines Corps Faction, RT Solar Flare Shield, Infinity Rim: Ariadna, Jecrell's Tobacco and Cigarettes V1.3d, Chemfuel Generator, Mind Altering Device, Bonsaiplus, Growing Plots, PrisonerRansom (A16), A Dog Said...NoCrafting, A Dog Said-EPOE compatibility patch, DE Surgeries, EPOE Combined Asari and Jaffa patch, Core Driller, Core Driller - Stone Addon, Core Driller - Glitter Tech Addon, RimEffect - Weapons and Armor, Better RimDoctors v1.2, Better RimDoctors - EPOE Patch v1.1, Raiderpedes, ResearchList, CPHaulage - B-Team, [A16] Talons Faction 1.6 New pawns and races, Misc. Objects, CPBeasties, CPBeasties ADS Patch, Taiga Creatures, und Taiga Creatures / A Dog Said compatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+QualityBuilder added property to '0' things
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Added new filter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meat added to wax recipes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meal recipes added to WoodStoveFurnace defs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Thread 426 ---
+ 31048ms Loading game from file Wir Landeten Hier222
+ - 684ms InitLoading (read file)
+ - 0ms Load compressed things
+ - 3651ms Load non-compressed things
+ - 110ms ResolveAllCrossReferences
+ - 52ms DoAllPostLoadInits
+ - 2ms Merge compressed and non-compressed thing lists
+ - 235ms Spawn everything into the map
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 25032.
+Total: 383.340698 ms (FindLiveObjects: 1.117279 ms CreateObjectMapping: 2.326433 ms MarkObjects: 379.834106 ms  DeleteObjects: 0.062007 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.532277 ms
+
+Unloading 7675 unused Assets to reduce memory usage. Loaded Objects now: 17430.
+Total: 158.341400 ms (FindLiveObjects: 1.063236 ms CreateObjectMapping: 1.212851 ms MarkObjects: 144.119110 ms  DeleteObjects: 11.945335 ms)
+
+Loading game from file Wir Landeten Hier222 with mods Core, HugsLib, Less Arbitrary Surgery, Facial Stuff 0.16.1.0, EdB Prepare Carefully, Colony Manager, Call of Cthulhu - Cosmic Horrors A16, H.P. Lovecraft Storyteller V1.2 A16, Call of Cthulhu - Industrial Age Objects A16, Call of Cthulhu - Cults A16, Call of Cthulhu - Factions V1.7 A16, Medieval Times, Expanded Prosthetics and Organ Engineering, Humanoid Alien Races, Orassans, Orassans (EPOE Patch), RimEffect - Asari of the Rims, RimGate - Jaffa, Kree! 4.0, RT's Weapon Pack, Hospitality A16, Defensive Positions, RimFridge, Crafting Hysteresis, More Vanilla Turrets, Hand Me That Brick, [T] MoreFloors, OSHA Compliance, I Can Fix It!, QualityBuilder, Vegetable Garden , More Furniture, LT-DoorMat, Allow Tool, Set-Up Camp, Miscellaneous 'CORE', Misc. Robots, Misc. Training, Rimsenal, Rimsenal - Rimhair, Rimsenal - Security pack, Rimsenal - Federation, Rimsenal - Feral, Rimsenal - Enhanced Vanilla Pack, Trading Spot, Glitter Tech, Mad Skills, Look At Me, I'm The Worker Now, [sd] advanced powergeneration, The Mad Rabbits of Caerbannog, Mod List Backup, Misc. Robots++, More vanilla factions, A Dog Said..., Silly Builder, Surgery is for Doctors, [sd] chicken nest, Misc. Bees'n'Honey, Quantum Cooling, USCM - Core, USCM - Turret, USCM - Colonial Marines Corps Faction, RT Solar Flare Shield, Infinity Rim: Ariadna, Jecrell's Tobacco and Cigarettes V1.3d, Chemfuel Generator, Mind Altering Device, Bonsaiplus, Growing Plots, PrisonerRansom (A16), A Dog Said...NoCrafting, A Dog Said-EPOE compatibility patch, DE Surgeries, EPOE Combined Asari and Jaffa patch, Core Driller, Core Driller - Stone Addon, Core Driller - Glitter Tech Addon, RimEffect - Weapons and Armor, Better RimDoctors v1.2, Better RimDoctors - EPOE Patch v1.1, Raiderpedes, ResearchList, CPHaulage - B-Team, [A16] Talons Faction 1.6 New pawns and races, Misc. Objects, CPBeasties, CPBeasties ADS Patch, Taiga Creatures, und Taiga Creatures / A Dog Said compatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+QualityBuilder added property to '0' things
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Added new filter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meat added to wax recipes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meal recipes added to WoodStoveFurnace defs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Thread 427 ---
+ 31000ms Loading game from file Wir Landeten Hier222
+ - 757ms InitLoading (read file)
+ - 0ms Load compressed things
+ - 3388ms Load non-compressed things
+ - 116ms ResolveAllCrossReferences
+ - 212ms DoAllPostLoadInits
+ - 2ms Merge compressed and non-compressed thing lists
+ - 216ms Spawn everything into the map
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 25079.
+Total: 383.641357 ms (FindLiveObjects: 1.012036 ms CreateObjectMapping: 1.345400 ms MarkObjects: 381.221924 ms  DeleteObjects: 0.061154 ms)
+
+--- Main thread ---
+ 0ms Global work for production manager
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 0ms Global work for forestry manager
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.585183 ms
+QualityBuilder added property to '0' things
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 7675 unused Assets to reduce memory usage. Loaded Objects now: 17480.
+Total: 170.058319 ms (FindLiveObjects: 1.439834 ms CreateObjectMapping: 1.943577 ms MarkObjects: 155.109879 ms  DeleteObjects: 11.564185 ms)
+
+Loading game from file Wir Landeten Hier222 with mods Core, HugsLib, Less Arbitrary Surgery, Facial Stuff 0.16.1.0, EdB Prepare Carefully, Colony Manager, Call of Cthulhu - Cosmic Horrors A16, H.P. Lovecraft Storyteller V1.2 A16, Call of Cthulhu - Industrial Age Objects A16, Call of Cthulhu - Cults A16, Call of Cthulhu - Factions V1.7 A16, Medieval Times, Expanded Prosthetics and Organ Engineering, Humanoid Alien Races, Orassans, Orassans (EPOE Patch), RimEffect - Asari of the Rims, RimGate - Jaffa, Kree! 4.0, RT's Weapon Pack, Hospitality A16, Defensive Positions, RimFridge, Crafting Hysteresis, More Vanilla Turrets, Hand Me That Brick, [T] MoreFloors, OSHA Compliance, I Can Fix It!, QualityBuilder, Vegetable Garden , More Furniture, LT-DoorMat, Allow Tool, Set-Up Camp, Miscellaneous 'CORE', Misc. Robots, Misc. Training, Rimsenal, Rimsenal - Rimhair, Rimsenal - Security pack, Rimsenal - Federation, Rimsenal - Feral, Rimsenal - Enhanced Vanilla Pack, Trading Spot, Glitter Tech, Mad Skills, Look At Me, I'm The Worker Now, [sd] advanced powergeneration, The Mad Rabbits of Caerbannog, Mod List Backup, Misc. Robots++, More vanilla factions, A Dog Said..., Silly Builder, Surgery is for Doctors, [sd] chicken nest, Misc. Bees'n'Honey, Quantum Cooling, USCM - Core, USCM - Turret, USCM - Colonial Marines Corps Faction, RT Solar Flare Shield, Infinity Rim: Ariadna, Jecrell's Tobacco and Cigarettes V1.3d, Chemfuel Generator, Mind Altering Device, Bonsaiplus, Growing Plots, PrisonerRansom (A16), A Dog Said...NoCrafting, A Dog Said-EPOE compatibility patch, DE Surgeries, EPOE Combined Asari and Jaffa patch, Core Driller, Core Driller - Stone Addon, Core Driller - Glitter Tech Addon, RimEffect - Weapons and Armor, Better RimDoctors v1.2, Better RimDoctors - EPOE Patch v1.1, Raiderpedes, ResearchList, CPHaulage - B-Team, [A16] Talons Faction 1.6 New pawns and races, Misc. Objects, CPBeasties, CPBeasties ADS Patch, Taiga Creatures, und Taiga Creatures / A Dog Said compatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Added new filter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meat added to wax recipes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meal recipes added to WoodStoveFurnace defs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Thread 428 ---
+ 27388ms Loading game from file Wir Landeten Hier222
+ - 689ms InitLoading (read file)
+ - 0ms Load compressed things
+ - 3042ms Load non-compressed things
+ - 99ms ResolveAllCrossReferences
+ - 45ms DoAllPostLoadInits
+ - 2ms Merge compressed and non-compressed thing lists
+ - 216ms Spawn everything into the map
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 25134.
+Total: 394.314667 ms (FindLiveObjects: 0.966526 ms CreateObjectMapping: 1.308423 ms MarkObjects: 391.983978 ms  DeleteObjects: 0.055181 ms)
+
+Biodrone_Seeker1033815 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033817 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033819 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033821 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033823 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033825 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033827 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033829 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033831 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033859 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033861 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033863 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033865 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033867 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033869 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033871 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033873 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033875 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Biodrone_Seeker1033878 is not a world pawn.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 0ms Global work for production manager
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 0ms Global work for forestry manager
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.934475 ms
+QualityBuilder added property to '0' things
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 7859 unused Assets to reduce memory usage. Loaded Objects now: 18208.
+Total: 186.862747 ms (FindLiveObjects: 1.615049 ms CreateObjectMapping: 2.350895 ms MarkObjects: 161.155640 ms  DeleteObjects: 21.740589 ms)
+
+Loading game from file Wir Landeten Hier222 with mods Core, HugsLib, Less Arbitrary Surgery, Facial Stuff 0.16.1.0, EdB Prepare Carefully, Colony Manager, Call of Cthulhu - Cosmic Horrors A16, H.P. Lovecraft Storyteller V1.2 A16, Call of Cthulhu - Industrial Age Objects A16, Call of Cthulhu - Cults A16, Call of Cthulhu - Factions V1.7 A16, Medieval Times, Expanded Prosthetics and Organ Engineering, Humanoid Alien Races, Orassans, Orassans (EPOE Patch), RimEffect - Asari of the Rims, RimGate - Jaffa, Kree! 4.0, RT's Weapon Pack, Hospitality A16, Defensive Positions, RimFridge, Crafting Hysteresis, More Vanilla Turrets, Hand Me That Brick, [T] MoreFloors, OSHA Compliance, I Can Fix It!, QualityBuilder, Vegetable Garden , More Furniture, LT-DoorMat, Allow Tool, Set-Up Camp, Miscellaneous 'CORE', Misc. Robots, Misc. Training, Rimsenal, Rimsenal - Rimhair, Rimsenal - Security pack, Rimsenal - Federation, Rimsenal - Feral, Rimsenal - Enhanced Vanilla Pack, Trading Spot, Glitter Tech, Mad Skills, Look At Me, I'm The Worker Now, [sd] advanced powergeneration, The Mad Rabbits of Caerbannog, Mod List Backup, Misc. Robots++, More vanilla factions, A Dog Said..., Silly Builder, Surgery is for Doctors, [sd] chicken nest, Misc. Bees'n'Honey, Quantum Cooling, USCM - Core, USCM - Turret, USCM - Colonial Marines Corps Faction, RT Solar Flare Shield, Infinity Rim: Ariadna, Jecrell's Tobacco and Cigarettes V1.3d, Chemfuel Generator, Mind Altering Device, Bonsaiplus, Growing Plots, PrisonerRansom (A16), A Dog Said...NoCrafting, A Dog Said-EPOE compatibility patch, DE Surgeries, EPOE Combined Asari and Jaffa patch, Core Driller, Core Driller - Stone Addon, Core Driller - Glitter Tech Addon, RimEffect - Weapons and Armor, Better RimDoctors v1.2, Better RimDoctors - EPOE Patch v1.1, Raiderpedes, ResearchList, CPHaulage - B-Team, [A16] Talons Faction 1.6 New pawns and races, Misc. Objects, CPBeasties, CPBeasties ADS Patch, Taiga Creatures, und Taiga Creatures / A Dog Said compatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Added new filter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meat added to wax recipes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meal recipes added to WoodStoveFurnace defs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Thread 429 ---
+ 29377ms Loading game from file Wir Landeten Hier222
+ - 661ms InitLoading (read file)
+ - 0ms Load compressed things
+ - 3598ms Load non-compressed things
+ - 113ms ResolveAllCrossReferences
+ - 52ms DoAllPostLoadInits
+ - 2ms Merge compressed and non-compressed thing lists
+ - 241ms Spawn everything into the map
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 25855.
+Total: 439.070435 ms (FindLiveObjects: 1.148852 ms CreateObjectMapping: 1.307854 ms MarkObjects: 436.545715 ms  DeleteObjects: 0.066274 ms)
+
+--- Main thread ---
+ 0ms Global work for production manager
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 0ms Global work for forestry manager
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.512651 ms
+QualityBuilder added property to '0' things
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 7672 unused Assets to reduce memory usage. Loaded Objects now: 18258.
+Total: 185.539536 ms (FindLiveObjects: 1.628418 ms CreateObjectMapping: 1.654870 ms MarkObjects: 170.584824 ms  DeleteObjects: 11.670281 ms)
+
+Loading game from file Wir Landeten Hier222 with mods Core, HugsLib, Less Arbitrary Surgery, Facial Stuff 0.16.1.0, EdB Prepare Carefully, Colony Manager, Call of Cthulhu - Cosmic Horrors A16, H.P. Lovecraft Storyteller V1.2 A16, Call of Cthulhu - Industrial Age Objects A16, Call of Cthulhu - Cults A16, Call of Cthulhu - Factions V1.7 A16, Medieval Times, Expanded Prosthetics and Organ Engineering, Humanoid Alien Races, Orassans, Orassans (EPOE Patch), RimEffect - Asari of the Rims, RimGate - Jaffa, Kree! 4.0, RT's Weapon Pack, Hospitality A16, Defensive Positions, RimFridge, Crafting Hysteresis, More Vanilla Turrets, Hand Me That Brick, [T] MoreFloors, OSHA Compliance, I Can Fix It!, QualityBuilder, Vegetable Garden , More Furniture, LT-DoorMat, Allow Tool, Set-Up Camp, Miscellaneous 'CORE', Misc. Robots, Misc. Training, Rimsenal, Rimsenal - Rimhair, Rimsenal - Security pack, Rimsenal - Federation, Rimsenal - Feral, Rimsenal - Enhanced Vanilla Pack, Trading Spot, Glitter Tech, Mad Skills, Look At Me, I'm The Worker Now, [sd] advanced powergeneration, The Mad Rabbits of Caerbannog, Mod List Backup, Misc. Robots++, More vanilla factions, A Dog Said..., Silly Builder, Surgery is for Doctors, [sd] chicken nest, Misc. Bees'n'Honey, Quantum Cooling, USCM - Core, USCM - Turret, USCM - Colonial Marines Corps Faction, RT Solar Flare Shield, Infinity Rim: Ariadna, Jecrell's Tobacco and Cigarettes V1.3d, Chemfuel Generator, Mind Altering Device, Bonsaiplus, Growing Plots, PrisonerRansom (A16), A Dog Said...NoCrafting, A Dog Said-EPOE compatibility patch, DE Surgeries, EPOE Combined Asari and Jaffa patch, Core Driller, Core Driller - Stone Addon, Core Driller - Glitter Tech Addon, RimEffect - Weapons and Armor, Better RimDoctors v1.2, Better RimDoctors - EPOE Patch v1.1, Raiderpedes, ResearchList, CPHaulage - B-Team, [A16] Talons Faction 1.6 New pawns and races, Misc. Objects, CPBeasties, CPBeasties ADS Patch, Taiga Creatures, und Taiga Creatures / A Dog Said compatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Added new filter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meat added to wax recipes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meal recipes added to WoodStoveFurnace defs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Thread 430 ---
+ 28082ms Loading game from file Wir Landeten Hier222
+ - 613ms InitLoading (read file)
+ - 0ms Load compressed things
+ - 3132ms Load non-compressed things
+ - 103ms ResolveAllCrossReferences
+ - 45ms DoAllPostLoadInits
+ - 2ms Merge compressed and non-compressed thing lists
+ - 196ms Spawn everything into the map
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 25915.
+Total: 433.084656 ms (FindLiveObjects: 1.058685 ms CreateObjectMapping: 2.646997 ms MarkObjects: 429.318115 ms  DeleteObjects: 0.059732 ms)
+
+--- Main thread ---
+ 0ms Global work for production manager
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+--- Main thread ---
+ 0ms Global work for forestry manager
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Tried to add health diff to missing part BodyPartRecord(LeftFoot parts.Count=5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
