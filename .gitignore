@@ -1,0 +1,381 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.7633]
+    Renderer: NVIDIA GeForce GTX TITAN Black
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Xml.Linq.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NAudio.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NAudio.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NVorbis.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NVorbis.dll into Unity Child Domain
+- Completed reload, in  0.061 seconds
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+
+UnloadTime: 0.845355 ms
+RimWorld 0.16.1393 rev536
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non platform assembly: data-18F39028 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18F39028.dll
+Non platform assembly: data-18F55A38 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18F55A38.dll
+Non platform assembly: data-18F8F110 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18F8F110.dll
+Non platform assembly: data-18FD0070 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18FD0070.dll
+Non platform assembly: data-18FF3008 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18FF3008.dll
+Non platform assembly: data-18EC7D28 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18EC7D28.dll
+Non platform assembly: data-190036C0 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-190036C0.dll
+Non platform assembly: data-18ED3D58 (this message is harmless)
+Non platform assembly: data-19049270 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-19049270.dll
+Non platform assembly: data-1C290050 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C290050.dll
+Non platform assembly: data-1C2D5008 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C2D5008.dll
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Configuration.dll (this message is harmless)
+Non platform assembly: data-1C2ED050 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C2ED050.dll
+Non platform assembly: data-1C36D020 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C36D020.dll
+Non platform assembly: data-18B29048 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18B29048.dll
+Non platform assembly: data-1C3B52E8 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C3B52E8.dll
+Non platform assembly: data-1C3BC6B8 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C3BC6B8.dll
+Non platform assembly: data-1C3BFEC0 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C3BFEC0.dll
+Non platform assembly: data-1C3E1008 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C3E1008.dll
+Non platform assembly: data-1C3E2610 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C3E2610.dll
+We're all good!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non platform assembly: data-18DABD10 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18DABD10.dll
+Non platform assembly: data-18DB0D18 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18DB0D18.dll
+Non platform assembly: data-1C406E28 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C406E28.dll
+Non platform assembly: data-1C42D008 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C42D008.dll
+Non platform assembly: data-1C42F418 (this message is harmless)
+Non platform assembly: data-1C42F418 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C42F418.dll
+Non platform assembly: data-1C434A20 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C434A20.dll
+Non platform assembly: data-1C440A30 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C440A30.dll
+Non platform assembly: data-1C445E38 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C445E38.dll
+Non platform assembly: data-1C44B248 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C44B248.dll
+Non platform assembly: data-1C466268 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C466268.dll
+Non platform assembly: data-1C47CC78 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C47CC78.dll
+Non platform assembly: data-1C4A60E8 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C4A60E8.dll
+Non platform assembly: data-1C3E6E20 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C3E6E20.dll
+Non platform assembly: data-1C618008 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C618008.dll
+Non platform assembly: data-1C61C010 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C61C010.dll
+Non platform assembly: data-1C5D31F0 (this message is harmless)
+Non platform assembly: data-1C4981A8 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C4981A8.dll
+Non platform assembly: data-1C5BB1F0 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C5BB1F0.dll
+Non platform assembly: data-1C4C3010 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C4C3010.dll
+Non platform assembly: data-18F11018 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18F11018.dll
+Non platform assembly: data-18F24620 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18F24620.dll
+Non platform assembly: data-1C404E38 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C404E38.dll
+Non platform assembly: data-1C5D4208 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C5D4208.dll
+Non platform assembly: data-18F29E28 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18F29E28.dll
+Non platform assembly: data-1C594208 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C594208.dll
+Non platform assembly: data-18F2D030 (this message is harmless)
+Non platform assembly: data-1C5AC008 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C5AC008.dll
+Exception reading Stats_Pawns_WorkMedical.xml as XML: System.Xml.XmlException: 'li' is expected  Line 112, position 8.
+  at Mono.Xml2.XmlTextReader.Expect (System.String expected) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.ReadEndTag () [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.ReadContent () [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.ReadContent () [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.Read () [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader.Read () [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.ReadNodeCore (System.Xml.XmlReader reader) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.ReadNodeCore (System.Xml.XmlReader reader) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.ReadNodeCore (System.Xml.XmlReader reader) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.ReadNodeCore (System.Xml.XmlReader reader) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.ReadNodeCore (System.Xml.XmlReader reader) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.ReadNode (System.Xml.XmlReader reader) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.Load (System.Xml.XmlReader xmlReader) [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlDocument.LoadXml (System.String xml) [0x00000] in <filename unknown>:0 
+  at Verse.LoadableXmlAsset..ctor (System.String name, System.String fullFolderPath, System.String contents) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Non platform assembly: data-18F2D030 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-18F2D030.dll
+Non platform assembly: data-1C631020 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C631020.dll
+Non platform assembly: data-1C63AE28 (this message is harmless)
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1C63AE28.dll
+OnLevelWasLoaded was found on ModInitializerComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Def-linked translation error: Found no Verse.ThingDef named SunLamp_Blueprint_Install to match SunLamp_Blueprint_Install.label
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Def-linked translation error: Found no Verse.ThingDef named TableSynthetics to match TableSynthetics.label
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Def-linked translation error: Found no Verse.ThingDef named TableSynthetics to match TableSynthetics.description
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Def-linked translation error: Found no RimWorld.WorkGiverDef named DoBillsTableSynthetics to match DoBillsTableSynthetics.verb
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Def-linked translation error: Found no RimWorld.WorkGiverDef named DoBillsTableSynthetics to match DoBillsTableSynthetics.gerund
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MapComponent_LocalCultTrackerfound for MapComponentInjector
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MapComponent_FertilityModsfound for MapComponentInjector
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MapComponent_SacrificeTrackerfound for MapComponentInjector
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MapComponent_TransmogrifyTrackerfound for MapComponentInjector
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Initiated CustomFactionBases Detours.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+CustomFactionBases detoured!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+[HugsLib] v2.3.3 initialized DefensivePositions, HandMeThatBrick, AllowTool, ModListBackup, LessArbitrarySurgery, PrisonerRansom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+AutoMortar_Frame 13025
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MeleeWeapon_GTPacifier 41241
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RPP_Bot_Kitchen_Adv 48417
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RPP_RechargeStation_Kitchen_Interm 61244
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+TurretWeaponBaseMannable 7181
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Initiated Alien Pawn Detours.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+AlienRace: Detouring 'Verse.GenSpawn.Spawn @ 0x1C270278' to 'AlienRace.GenSpawnAlien.SpawnModded @ 0x1C270608'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+AlienRace: Detouring 'RimWorld.InteractionWorker_RecruitAttempt.DoRecruit @ 0x1C2709E0' to 'AlienRace.AlienRaceUtilities.DoRecruitAlien @ 0x1C271710'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+AlienRace: Detouring 'RimWorld.FloatMenuMakerMap.AddHumanlikeOrders @ 0x1C1C4990' to 'AlienRace.MenuMakerMapRestricted.AddHumanlikeOrders @ 0x1C271FE8'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+AlienRace: Detouring 'Verse.StartingPawnUtility.NewGeneratedStartingPawn @ 0x1C275808' to 'AlienRace.AlienRaceUtilities.NewGeneratedStartingPawnModded @ 0x1C275A68'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+AlienRace: Detouring 'Verse.PawnGenerator.GeneratePawn @ 0x1C275FB0' to 'AlienRace.AlienPawnGenerator.GeneratePawn @ 0x1C276BA8'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+AlienRace: Detouring 'Verse.PawnGenerator.GeneratePawn @ 0x1C277888' to 'AlienRace.AlienPawnGenerator.GeneratePawn @ 0x1C277C50'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Alien Pawn methods detoured!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+CosmicHorror injected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Apparel Stuff Color detours loaded, hopefully correct
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+CultOfCthulhu injected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Orassan injected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hospitality injected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Mad Skills: detour succesful.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RW_FacialStuff injected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.070062 ms
+QualityBuilder added property to '176' things
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 15913.
+Total: 87.985489 ms (FindLiveObjects: 0.455388 ms CreateObjectMapping: 1.440403 ms MarkObjects: 86.031387 ms  DeleteObjects: 0.057741 ms)
+
+Loading game from file Wir Landeten Hier with mods Core, HugsLib, EdB Prepare Carefully, Colony Manager, Call of Cthulhu - Cosmic Horrors A16, H.P. Lovecraft Storyteller V1.2 A16, Call of Cthulhu - Industrial Age Objects A16, Call of Cthulhu - Cults A16, Call of Cthulhu - Factions V1.7 A16, Medieval Times, Expanded Prosthetics and Organ Engineering, Humanoid Alien Races, Orassans, Orassans (EPOE Patch), RimEffect - Asari of the Rims, RimGate - Jaffa, Kree! 4.0, RT's Weapon Pack, Hospitality A16, Defensive Positions, RimFridge, Crafting Hysteresis, More Vanilla Turrets, Hand Me That Brick, [T] MoreFloors, OSHA Compliance, I Can Fix It!, QualityBuilder, Vegetable Garden , More Furniture, LT-DoorMat, Allow Tool, Set-Up Camp, Miscellaneous 'CORE', Misc. Robots, Misc. Training, Rimsenal, Rimsenal - Rimhair, Rimsenal - Security pack, Rimsenal - Federation, Rimsenal - Feral, Rimsenal - Enhanced Vanilla Pack, Trading Spot, Glitter Tech, Mad Skills, Look At Me, I'm The Worker Now, [sd] advanced powergeneration, The Mad Rabbits of Caerbannog, Mod List Backup, Misc. Robots++, More vanilla factions, A Dog Said..., Silly Builder, Surgery is for Doctors, Facial Stuff 0.16.1.0, [sd] chicken nest, Misc. Bees'n'Honey, Quantum Cooling, USCM - Core, USCM - Turret, USCM - Colonial Marines Corps Faction, RT Solar Flare Shield, Infinity Rim: Ariadna, Jecrell's Tobacco and Cigarettes V1.3d, Chemfuel Generator, Less Arbitrary Surgery, Mind Altering Device, Bonsaiplus, Growing Plots, PrisonerRansom (A16), A Dog Said...NoCrafting, A Dog Said-EPOE compatibility patch, DE Surgeries, EPOE Combined Asari and Jaffa patch, Core Driller, Core Driller - Stone Addon, Core Driller - Glitter Tech Addon, RimEffect - Weapons and Armor, Better RimDoctors v1.2, Better RimDoctors - EPOE Patch v1.1, Raiderpedes, ResearchList, CPHaulage - B-Team, [A16] Talons Faction 1.6 New pawns and races, Misc. Objects, CPBeasties, CPBeasties ADS Patch, Taiga Creatures, und Taiga Creatures / A Dog Said compatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not resolve reference to object with loadID AssignedDrugsSet_0 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Added new filter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meat added to wax recipes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Strange meal recipes added to WoodStoveFurnace defs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Thing-needing designation (Hunt target=null) had no thing target. Removing...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+QualityBuilder added to Befehle category.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Failed to find any texture while constructing Multi(initPath=Pawn/CosmicHorrors/CallOfCthulhu_DarkYoungPack, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 24043.
+Total: 285.420013 ms (FindLiveObjects: 0.906509 ms CreateObjectMapping: 2.237972 ms MarkObjects: 282.216370 ms  DeleteObjects: 0.058594 ms)
